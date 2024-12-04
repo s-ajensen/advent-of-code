@@ -49,4 +49,4 @@
       (should= 31 (sut/pt-2 in)))
 
     (it "solves real"
-      (should= 1 (sut/pt-2 real)))))
+      (should= 19678534 (sut/pt-2 real)))))
